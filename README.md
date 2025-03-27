@@ -1,3 +1,4 @@
+image : 
 1. Masukan Terlebih dahulu data yang dibutuhkan Seperti Tanggal, Keterangan, Tipe Transaksi, dan Nominal
  2. Kemudian Tambahkan data yang telah diisi dengan meng-klik tombol "Tambah Transaksi"
  3. Jika Ingin Menghapus data yang telah diinput Silahkan meng-klik tombol "Hapus Baris Terakhir" atau "Hapus Semua"
