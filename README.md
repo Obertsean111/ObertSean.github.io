@@ -30,9 +30,9 @@ Berikut adalah bagaimana cara menggunakan proyek Laporan Keuangan Harian :
 ## Contact
 Jika ada pertanyaan yang ingin ditanyakan silahkan contact :
 
-Instagram : https://www.instagram.com/alfin_jyz
+Instagram : [https://www.instagram.com/alfin_jyz](https://www.instagram.com/obeet_s/#)
 
-Email : alfinnn831@gmail.com
+Email : Obert.sean13@gmail.com
 ##
 ## Documentation & Tutor
 Berikut adalah tampilan dari proyek Laporan Keuangan Harian :
