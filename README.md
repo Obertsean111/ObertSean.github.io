@@ -1,4 +1,4 @@
-# LAPORAN KEUANGAN
+# KETERANGAN PROYEK
 ## Deskripsi
 Proyek ini dibuat untuk mempermudah pengguna dalam melakukan pencatatan transaksi keluar maupun masuk dalam kehidupan sehari-hari. Sehingga dengan adanya proyek ini pengguna dapat memonitoring arus masuk dan keluar transaksi melalui Laporan transaksi yang dilakukan dalam kehidupan sehari-hari.
 ##
